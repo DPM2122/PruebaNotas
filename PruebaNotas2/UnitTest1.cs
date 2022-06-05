@@ -21,10 +21,10 @@ namespace PruebaNotas2
             notas.Add(8);
 
             double mediaEsperada = 5.143;
-            int susE = 3;
-            int aprE = 1;
-            int notE = 2;
-            int sbrE = 1;
+            int suspensosEsperados = 3;
+            int aprobadosEsperados = 1;
+            int notablesEsperados = 2;
+            int sobresalientesEsperados = 1;
         }
     }
 }
