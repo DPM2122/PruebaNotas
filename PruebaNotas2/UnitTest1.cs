@@ -25,6 +25,8 @@ namespace PruebaNotas2
             int aprobadosEsperados = 1;
             int notablesEsperados = 2;
             int sobresalientesEsperados = 1;
+
+
         }
     }
 }
